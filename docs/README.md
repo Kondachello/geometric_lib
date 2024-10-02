@@ -129,3 +129,16 @@ area(5)  # 78.53981633974483
 **Пример использования:**
 ```python
 perimeter(5)  # 31.41592653589793
+```
+
+## История изменений
+
+### Коммиты
+
+- **[8ba9aeb3]** Circle and square added.
+- **[d078c8d9]** Docs added.
+- **[ce812ce4]** rectangle and triangle.py added.
+- **[8d4d7226]** comments to all functions added.
+- **[cc37ac7c]** documentation added.
+
+commits hashes added.
