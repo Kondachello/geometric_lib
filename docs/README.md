@@ -140,5 +140,6 @@ perimeter(5)  # 31.41592653589793
 - **[ce812ce4]** rectangle and triangle.py added.
 - **[8d4d7226]** comments to all functions added.
 - **[cc37ac7c]** documentation added.
+- **[a972ff1f]** commits hashes added.
 
-commits hashes added.
+tests added.
